@@ -26,5 +26,5 @@ Una vez el usuario establece sus ubicaciones "Desde" y "Hasta", la aplicación r
 1. Requisitos : [Document](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-sprint-2/ESP/2_Requisitos_para_compartir_un_automvil_en_Urban_Routes.pdf)
 2. Tabla de casos de pruebas y clases de equivalencia :  [Sheet](https://docs.google.com/spreadsheets/d/1gQ750J437ykJjCzmMFoJVV_cVkZhXM6B/edit?usp=sharing&ouid=105660489015748579866&rtpof=true&sd=true)
 3. Mapa mental : [Map](https://drive.google.com/file/d/1Ko2J97uRsgmLiQdMJcp2g2xRbkJL6Egq/view?usp=sharing)
-4. Diagrama de flujo : [Diagram](https://docs.google.com/document/d/14F75YmsE3G3nIfwtcVmH7KDWMZPrJcdn2qZ5DXkwB5o/edit?usp=sharing)
+4. Diagrama de flujo : [Chart](https://drive.google.com/file/d/1a9YtilnOibxwfRH4SGPwl-LeUEuyVaTa/view?usp=sharing)
 
